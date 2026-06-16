@@ -5,7 +5,7 @@
 echo "开始同步 LinkedEvery 文档..."
 
 # 进入项目目录
-cd ~/GitHub/linkedevery
+cd /Users/panjuncai/Documents/GitHub/linkedevery
 
 # 添加所有更改
 git add .
